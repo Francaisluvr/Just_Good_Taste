@@ -112,3 +112,108 @@ footer{
     text-align:center;
     padding:60px 20px;
 }
+ /* ==========================
+   Category Sections
+========================== */
+
+.category-section {
+    margin-bottom: 80px;
+}
+
+.category-title {
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    font-size: 2rem;
+    color: var(--lavender);
+}
+
+/* ==========================
+   Product Grid
+========================== */
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fit,
+        minmax(250px, 1fr)
+    );
+    gap: 30px;
+}
+
+/* ==========================
+   Product Cards
+========================== */
+
+.product-card {
+    background: var(--white);
+    padding: 25px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(0,0,0,.08);
+    transition: transform 0.2s ease;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+}
+
+.product-card h3 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: var(--text);
+}
+
+/* ==========================
+   Product Images
+========================== */
+
+.product-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+/* ==========================
+   Product Description
+========================== */
+
+.description {
+    min-height: 60px;
+    margin: 15px 0;
+    color: #666;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+/* ==========================
+   Product Price
+========================== */
+
+.price {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: var(--periwinkle);
+    margin-bottom: 15px;
+}
+
+/* ==========================
+   Mobile Adjustments
+========================== */
+
+@media (max-width: 768px) {
+
+    .hero h1 {
+        font-size: 2.75rem;
+    }
+
+    .category-title {
+        font-size: 1.75rem;
+    }
+
+    .product-grid {
+        grid-template-columns: 1fr;
+    }
+}
