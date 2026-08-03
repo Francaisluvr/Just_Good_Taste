@@ -4,25 +4,25 @@
   "slug": "rise-and-shine-favorites",
   "products": [
     {
-      "id": "toaster-pastry-banana-cream",
-      "name": "Toaster Pastries - Banana Cream",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "A tiny breakfast favorite with cozy morning vibes."
-    },
-    {
       "id": "coffee-bean",
       "name": "Coffee Bean",
       "price": 10,
       "image": "images/REPLACE_IMAGE_FILENAME.jpg",
       "description": "Perfect for coffee lovers and caffeine enthusiasts alike."
     },
-    {
-      "id": "egg",
-      "name": "Overeasy Egg",
+     {
+      "id": "coffee-cup",
+      "name": "Coffee Cup",
       "price": 10,
       "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "A playful nod to the most important meal of the day."
+      "description": "For the people who run on caffeine and creativity."
+    },
+     {
+      "id": "coffee-cup",
+      "name": "Coffee Cup",
+      "price": 10,
+      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "description": "For the people who run on caffeine and creativity."
     },
     {
       "id": "mug",
@@ -30,20 +30,6 @@
       "price": 10,
       "image": "images/REPLACE_IMAGE_FILENAME.jpg",
       "description": "Tiny comfort in accessory form."
-    },
-    {
-      "id": "toaster-pastry-chocolate-fudge",
-      "name": "Toaster Pastries - Chocolate Fudge",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "Breakfast nostalgia with extra chocolatey charm."
-    },
-    {
-      "id": "toaster-pastry-strawberry",
-      "name": "Toaster Pastries - Strawberry",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "Inspired by a lunchbox classic everyone remembers."
     },
     {
       "id": "waffles",
@@ -59,12 +45,12 @@
       "image": "images/REPLACE_IMAGE_FILENAME.jpg",
       "description": "Stacked high with personality."
     },
-    {
-      "id": "coffee-cup",
-      "name": "Coffee Cup",
+     {
+      "id": "egg",
+      "name": "Overeasy Egg",
       "price": 10,
       "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "For the people who run on caffeine and creativity."
+      "description": "A playful nod to the most important meal of the day."
     },
     {
       "id": "donut",
@@ -79,9 +65,30 @@
       "price": 10,
       "image": "images/REPLACE_IMAGE_FILENAME.jpg",
       "description": "A tiny tribute to classic breakfast treats."
+    },
+   {
+      "id": "toaster-pastry-banana-cream",
+      "name": "Toaster Pastries - Banana Cream",
+      "price": 10,
+      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "description": "A tiny breakfast favorite with cozy morning vibes."
+    },
+   {
+      "id": "toaster-pastry-chocolate-fudge",
+      "name": "Toaster Pastries - Chocolate Fudge",
+      "price": 10,
+      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "description": "Breakfast nostalgia with extra chocolatey charm."
+    },
+    {
+      "id": "toaster-pastry-strawberry",
+      "name": "Toaster Pastries - Strawberry",
+      "price": 10,
+      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "description": "Inspired by a lunchbox classic everyone remembers."
     }
   ]
-  },
+},
 
  {
   "category": "Fresh Picked",
@@ -420,13 +427,6 @@
       "description": "A classic fall festival favorite in miniature form."
     },
     {
-      "id": "turkey",
-      "name": "Turkey",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "A festive fall favorite ready for Thanksgiving gatherings."
-    },
-    {
       "id": "cleaver",
       "name": "Cleaver",
       "price": 10,
@@ -439,6 +439,13 @@
       "price": 10,
       "image": "images/REPLACE_IMAGE_FILENAME.jpg",
       "description": "A playful Halloween kitchen detail with a little edge."
+    },
+     {
+      "id": "turkey",
+      "name": "Turkey",
+      "price": 10,
+      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "description": "A festive fall favorite ready for Thanksgiving gatherings."
     }
   ]
     }
