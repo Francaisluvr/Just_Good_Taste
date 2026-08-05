@@ -112,6 +112,10 @@ footer{
     text-align:center;
     padding:60px 20px;
 }
+.hero .button {
+    display: inline-block;
+    margin-top: 25px;
+}
  /* ==========================
    Category Sections
 ========================== */
