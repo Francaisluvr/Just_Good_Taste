@@ -44,11 +44,10 @@ async function loadProducts() {
                     $${product.price}
                 </p>
 
-               <a
-                    href="${product.paymentLink}"
-                    class="button"
-                    target="_blank">
-                    Order Now
+               <<a
+                href="#bundles"
+                class="button">
+                Choose Bundle
                 </a>
             `;
 
