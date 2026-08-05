@@ -199,6 +199,16 @@ footer{
     margin-bottom: 15px;
 }
 
+}
+.bundle-options {
+    text-align:center;
+    margin-bottom:60px;
+}
+
+.bundle-options .button {
+    display:inline-block;
+    margin:10px;
+}
 /* ==========================
    Mobile Adjustments
 ========================== */
@@ -216,4 +226,3 @@ footer{
     .product-grid {
         grid-template-columns: 1fr;
     }
-}
