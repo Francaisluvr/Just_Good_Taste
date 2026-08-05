@@ -44,16 +44,12 @@ async function loadProducts() {
                     $${product.price}
                 </p>
 
-                <button
-                    class="snipcart-add-item button"
-                    data-item-id="${product.id}"
-                    data-item-price="${product.price}"
-                    data-item-url="/"
-                    data-item-name="${product.name}"
-                    data-item-image="${product.image}"
-                    data-item-description="${product.description}">
-                    Add to Cart
-                </button>
+               <a
+                    href="${product.paymentLink}"
+                    class="button"
+                    target="_blank">
+                    Order Now
+                </a>
             `;
 
             grid.appendChild(card);
