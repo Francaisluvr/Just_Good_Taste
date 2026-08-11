@@ -7,84 +7,77 @@
       "id": "coffee-bean",
       "name": "Coffee Bean",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/coffee_bean_earrings.webp",
       "description": "Perfect for coffee lovers and caffeine enthusiasts alike."
     },
      {
       "id": "coffee-cup",
       "name": "Coffee Cup",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "For the people who run on caffeine and creativity."
-    },
-     {
-      "id": "coffee-cup",
-      "name": "Coffee Cup",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/coffee_cup_earrings.webp",
       "description": "For the people who run on caffeine and creativity."
     },
     {
       "id": "mug",
       "name": "Tea Mug",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/mug_earrings.webp",
       "description": "Tiny comfort in accessory form."
     },
     {
       "id": "waffles",
       "name": "Waffles",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/waffle_earrings_dangle.webp",
       "description": "Golden, crispy, and syrup-ready."
     },
     {
       "id": "pancakes",
       "name": "Pancakes",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/pancakes_earrings.webp",
       "description": "Stacked high with personality."
     },
      {
       "id": "egg",
       "name": "Overeasy Egg",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/overeasy_egg_earrings.webp",
       "description": "A playful nod to the most important meal of the day."
     },
     {
       "id": "donut",
       "name": "Sprinkled Donut",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/donut_earrings.webp",
       "description": "Sweet, nostalgic, and impossible not to smile at."
     },
     {
       "id": "toaster-pastry-raspberry",
       "name": "Toaster Pastries - Raspberry",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/raspberry_toaster_pastries_earrings/webp",
       "description": "A tiny tribute to classic breakfast treats."
     },
    {
       "id": "toaster-pastry-banana-cream",
       "name": "Toaster Pastries - Banana Cream",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/banana_cream_pie_toaster_pastries_earrings.webp",
       "description": "A tiny breakfast favorite with cozy morning vibes."
     },
    {
       "id": "toaster-pastry-chocolate-fudge",
       "name": "Toaster Pastries - Chocolate Fudge",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/chocolate_fudge_toaster_pastries_earrings.webp",
       "description": "Breakfast nostalgia with extra chocolatey charm."
     },
     {
       "id": "toaster-pastry-strawberry",
       "name": "Toaster Pastries - Strawberry",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/strawberry_toaster_pastries_earrings.webp",
       "description": "Inspired by a lunchbox classic everyone remembers."
     }
   ]
@@ -98,91 +91,91 @@
       "id": "grapes",
       "name": "Grapes",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/grape_earrings.webp",
       "description": "A tiny bunch of fruity fun for everyday outfits."
     },
     {
       "id": "pear",
       "name": "Pear",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/pear_earrings.webp",
       "description": "Sweet, simple, and full of orchard charm."
     },
     {
       "id": "avocado",
       "name": "Avocado",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/avocado_earrings.webp",
       "description": "Brunch favorite turned wearable conversation starter."
     },
     {
       "id": "apple",
       "name": "Apple",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/apple_earrings.webp",
       "description": "Crisp, classic, and ready for any season."
     },
     {
       "id": "banana",
       "name": "Banana",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/banana_earrings.webp",
       "description": "A cheerful little reminder not to take life too seriously."
     },
     {
       "id": "raspberry",
       "name": "Raspberry",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/raspberry_earrings.webp",
       "description": "Tiny berry goodness with plenty of personality."
     },
     {
       "id": "pineapple",
       "name": "Pineapple",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/pineapple_earrings.webp",
       "description": "Bringing sunny vacation energy wherever you go."
     },
     {
       "id": "peach",
       "name": "Peach",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/peach_earrings.webp",
       "description": "Soft summer vibes in miniature form."
     },
     {
-      "id": "tangerines",
-      "name": "Tangerines",
+      "id": "mandarin_orange",
+      "name": "Mandarin Oranges",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/mandarin_oranges_earrings.webp",
       "description": "Bright, fresh, and delightfully unexpected."
     },
     {
       "id": "strawberry",
       "name": "Strawberry",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/strawberyy_dangle_earrings.webp",
       "description": "A nostalgic favorite that never goes out of style."
     },
     {
       "id": "watermelon",
       "name": "Watermelon",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/watermelon_dangle_earrings.webp",
       "description": "A little slice of summer you can wear year-round."
     },
     {
       "id": "lemon",
       "name": "Lemon",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/lemon_earrings.webp",
       "description": "Fresh, bright, and full of zest."
     },
     {
       "id": "cherry",
       "name": "Cherry",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/cherry_earrings.webp",
       "description": "Retro diner charm in a tiny package."
     }
   ]
@@ -196,42 +189,42 @@
       "id": "baguette",
       "name": "Baguette",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/baguette_earrings.webp",
       "description": "A little taste of bakery charm with a French twist."
     },
     {
       "id": "boule",
       "name": "Boule",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/boule_earrings.webp",
       "description": "A tiny artisan loaf for bread lovers everywhere."
     },
     {
-      "id": "hot-dog",
-      "name": "Hot Dog",
+      "id": "coney",
+      "name": "Coney",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/coney_earrings.webp",
       "description": "A classic cookout favorite, now in miniature."
     },
     {
       "id": "fries",
       "name": "Fries",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/fries_earrings.webp",
       "description": "Golden, crispy, and always a good idea."
     },
     {
       "id": "cheeseburger",
       "name": "Cheeseburger",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/cheeseburger_earrings.webp",
       "description": "A diner classic made for everyday fun."
     },
     {
-      "id": "pizza",
+      "id": "perrperoni-pizza",
       "name": "Pizza",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/pepperoni_pizza_dangle.webp",
       "description": "A favorite slice without the delivery wait."
     },
     {
@@ -249,10 +242,10 @@
       "description": "A sweet twist on a beloved snack."
     },
     {
-      "id": "popcorn",
-      "name": "Popcorn",
+      "id": "buttered-popcorn",
+      "name": "Buttered Popcorn",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/buttered_popcorn_earrings.webp",
       "description": "Movie night memories you can wear anywhere."
     },
     {
@@ -266,7 +259,7 @@
       "id": "tacos",
       "name": "Tacos",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/tacos_dangle_earrings.webp",
       "description": "A fiesta favorite packed with personality."
     }
   ]
@@ -286,28 +279,28 @@
       "id": "ice-cream-cone-chocolate",
       "name": "Ice Cream Cone - Chocolate",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/chocolate_ice_cream_cone_earrings.webp",
       "description": "A classic chocolate scoop made for sweet summer days."
     },
     {
       "id": "ice-cream-cone-strawberry",
       "name": "Ice Cream Cone - Strawberry",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/strawberry_ice_cream_cone_earrings.webp",
       "description": "A berry sweet favorite inspired by sunny afternoons."
     },
     {
       "id": "ice-cream-cone-vanilla",
       "name": "Ice Cream Cone - Vanilla",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/vanilla_ice_cream_cone_earrings.webp",
       "description": "A timeless favorite with classic ice cream shop charm."
     },
     {
       "id": "ice-cream-cone-mint-chocolate-chip",
       "name": "Ice Cream Cone - Mint Chocolate Chip",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/mint_chip_ice_cream_cone_earrings.webp",
       "description": "A refreshing favorite with a little extra chocolatey fun."
     }
   ]
@@ -320,35 +313,35 @@
       "id": "measuring-spoons",
       "name": "Measuring Spoons",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/measuring_spoon_earrings.webp",
       "description": "A tiny tribute to the tools behind favorite recipes."
     },
     {
       "id": "oven-mitt",
       "name": "Oven Mitt",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/oven_mitt_earrings_red.webp",
       "description": "For bakers, makers, and anyone who loves time in the kitchen."
     },
     {
       "id": "wooden-spoon",
       "name": "Wooden Spoon",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/mixing_spoon_earrings.webp",
       "description": "A classic kitchen companion full of homemade memories."
     },
     {
       "id": "pepper-mill",
       "name": "Pepper Mill",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/pepper_mill_earrings.webp",
       "description": "A little pinch of personality for food lovers."
     },
     {
       "id": "mixing-bowl",
       "name": "Mixing Bowl",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/mixing_bowl_earrings.webp",
       "description": "Inspired by cozy kitchens and favorite recipes."
     }
   ]
@@ -361,35 +354,35 @@
       "id": "chocolate-wafer-cookies",
       "name": "Chocolate Wafer Cookies",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/chocolate_wafer_cookies_earrings.webp",
       "description": "A nostalgic cookie favorite with a chocolatey twist."
     },
     {
       "id": "chocolate-sandwich-cookies",
       "name": "Chocolate Sandwich Cookies",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/chocolate_sandwich_earrings.webp",
       "description": "A classic treat that brings back sweet memories."
     },
     {
       "id": "cupcake",
       "name": "Cupcake",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/cupcake_earrings.webp",
       "description": "A tiny celebration you can wear every day."
     },
     {
       "id": "thumbprint-cookies",
       "name": "Thumbprint Cookies",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/thumbprint_cookie_earrings.webp",
       "description": "A cozy homemade favorite inspired by cookie jars and kitchens."
     },
     {
       "id": "cotton-candy",
       "name": "Cotton Candy",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/cotton_candy_earrings.webp",
       "description": "A little swirl of sweetness and childhood nostalgia."
     }
   ]
@@ -402,28 +395,28 @@
       "id": "sugar-skulls",
       "name": "Sugar Skulls",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/sugar_skulls_earrings.webp",
       "description": "Colorful little treats inspired by festive fall traditions."
     },
     {
-      "id": "fall-glitter-pumpkin",
-      "name": "Fall Glitter Pumpkin",
+      "id": "pumpkin-regular",
+      "name": "Pumpkin",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/pumpkin_earrings_regular",
       "description": "A sparkling pumpkin perfect for cozy autumn days."
     },
     {
       "id": "ghost-cookies",
       "name": "Ghost Cookies",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/ghost_cookies_earrings.webp",
       "description": "A sweet little spooky treat with plenty of charm."
     },
     {
       "id": "candy-apple",
       "name": "Candy Apple",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "earrings/candy_apple_earrings.webp",
       "description": "A classic fall festival favorite in miniature form."
     },
     {
