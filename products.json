@@ -60,10 +60,10 @@
       "description": "A tiny tribute to classic breakfast treats."
     },
    {
-      "id": "toaster-pastry-banana-cream",
-      "name": "Toaster Pastries - Banana Cream",
+      "id": "toaster-pastry-banana-creme",
+      "name": "Toaster Pastries - Banana Creme",
       "price": 10,
-      "image": "earrings/banana_cream_pie_toaster_pastries_earrings.webp",
+      "image": "earrings/banana_creme_pie_toaster_pastries_earrings.webp",
       "description": "A tiny breakfast favorite with cozy morning vibes."
     },
    {
