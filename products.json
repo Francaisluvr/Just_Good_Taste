@@ -7,7 +7,7 @@
       "id": "coffee-bean",
       "name": "Coffee Bean",
       "price": 10,
-      "image": "earrings/coffee_bean_earrings.webp",
+      "image": "earrings/coffee_bean.webp",
       "description": "Perfect for coffee lovers and caffeine enthusiasts alike."
     },
      {
@@ -16,6 +16,13 @@
       "price": 10,
       "image": "earrings/coffee_cup_earrings.webp",
       "description": "For the people who run on caffeine and creativity."
+    },
+     {
+      "id": "frappe",
+      "name": "Frappe",
+      "price": 10,
+      "image": "earrings/frappe_earrings.webp",
+      "description": "Coffee + Summer = Frappe for the win."
     },
     {
       "id": "mug",
@@ -28,14 +35,14 @@
       "id": "waffles",
       "name": "Waffles",
       "price": 10,
-      "image": "earrings/waffle_earrings_dangle.webp",
+      "image": "earrings/waffle_dangle_earrings.webp",
       "description": "Golden, crispy, and syrup-ready."
     },
     {
       "id": "pancakes",
       "name": "Pancakes",
       "price": 10,
-      "image": "earrings/pancakes_earrings.webp",
+      "image": "earrings/pancake_earrings.webp",
       "description": "Stacked high with personality."
     },
      {
@@ -147,14 +154,14 @@
       "id": "mandarin_orange",
       "name": "Mandarin Oranges",
       "price": 10,
-      "image": "earrings/mandarin_oranges_earrings.webp",
+      "image": "earrings/mandarin_oranges.webp",
       "description": "Bright, fresh, and delightfully unexpected."
     },
     {
       "id": "strawberry",
       "name": "Strawberry",
       "price": 10,
-      "image": "earrings/strawberyy_dangle_earrings.webp",
+      "image": "earrings/strawberry_dangle_earrings.webp",
       "description": "A nostalgic favorite that never goes out of style."
     },
     {
@@ -199,6 +206,13 @@
       "image": "earrings/boule_earrings.webp",
       "description": "A tiny artisan loaf for bread lovers everywhere."
     },
+      {
+      "id": "checkered bread",
+      "name": "Checkered Bread",
+      "price": 10,
+      "image": "earrings/checkered_bread_earrings.webp",
+      "description": "A tiny artisan loaf for bread lovers everywhere."
+    },
     {
       "id": "coney",
       "name": "Coney",
@@ -221,10 +235,10 @@
       "description": "A diner classic made for everyday fun."
     },
     {
-      "id": "perrperoni-pizza",
+      "id": "pepperoni-pizza",
       "name": "Pizza",
       "price": 10,
-      "image": "earrings/pepperoni_pizza_dangle.webp",
+      "image": "earrings/pepperoni_pizza_dangle_earrings.webp",
       "description": "A favorite slice without the delivery wait."
     },
     {
@@ -245,7 +259,7 @@
       "id": "buttered-popcorn",
       "name": "Buttered Popcorn",
       "price": 10,
-      "image": "earrings/buttered_popcorn_earrings.webp",
+      "image": "earrings/buttered_popcorn.webp",
       "description": "Movie night memories you can wear anywhere."
     },
     {
@@ -254,6 +268,13 @@
       "price": 10,
       "image": "images/REPLACE_IMAGE_FILENAME.jpg",
       "description": "A tiny gourmet touch for cheese enthusiasts."
+    },
+     {
+      "id": "take-out-container",
+      "name": "Take Out Container",
+      "price": 10,
+      "image": "earrings/take_out_containers_earrings.webp",
+      "description": "A little pinch of personality for food lovers."
     },
     {
       "id": "tacos",
@@ -272,7 +293,7 @@
       "id": "popsicles",
       "name": "Popsicles",
       "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
+      "image": "images/green_popsicle_earrings.jpg",
       "description": "A colorful frozen treat that brings instant summer memories."
     },
     {
@@ -324,8 +345,8 @@
       "description": "For bakers, makers, and anyone who loves time in the kitchen."
     },
     {
-      "id": "wooden-spoon",
-      "name": "Wooden Spoon",
+      "id": "mixing-spoon",
+      "name": "Mixing Spoon",
       "price": 10,
       "image": "earrings/mixing_spoon_earrings.webp",
       "description": "A classic kitchen companion full of homemade memories."
@@ -336,6 +357,13 @@
       "price": 10,
       "image": "earrings/pepper_mill_earrings.webp",
       "description": "A little pinch of personality for food lovers."
+    },
+     {
+      "id": "chefs-hat",
+      "name": "Chefs Hat",
+      "price": 10,
+      "image": "earrings/chefs_hat_earrings.webp",
+      "description": "The perfect addition for every culinarian."
     },
     {
       "id": "mixing-bowl",
@@ -354,7 +382,7 @@
       "id": "chocolate-wafer-cookies",
       "name": "Chocolate Wafer Cookies",
       "price": 10,
-      "image": "earrings/chocolate_wafer_cookies_earrings.webp",
+      "image": "earrings/chocolate_wafer_cookie_earrings.webp",
       "description": "A nostalgic cookie favorite with a chocolatey twist."
     },
     {
@@ -377,6 +405,13 @@
       "price": 10,
       "image": "earrings/thumbprint_cookie_earrings.webp",
       "description": "A cozy homemade favorite inspired by cookie jars and kitchens."
+    },
+     {
+      "id": "dark-chocolate",
+      "name": "Dark Chocolate",
+      "price": 10,
+      "image": "earrings/chocolate_bar_dark_earrings.webp",
+      "description": "A little pinch of personality for food lovers."
     },
     {
       "id": "cotton-candy",
