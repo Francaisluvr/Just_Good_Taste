@@ -59,14 +59,6 @@
       "image": "earrings/donut_earrings.webp",
       "description": "Sweet, nostalgic, and impossible not to smile at."
     },
-     <!--
-    {
-      "id": "toaster-pastry-raspberry",
-      "name": "Toaster Pastries - Raspberry",
-      "price": 10,
-      "image": "earrings/raspberry_toaster_pastries_earrings/webp",
-      "description": "A tiny tribute to classic breakfast treats."
-    },-->
    {
       "id": "toaster-pastry-banana-creme",
       "name": "Toaster Pastries - Banana Creme",
@@ -116,21 +108,6 @@
       "image": "earrings/avocado_earrings.webp",
       "description": "Brunch favorite turned wearable conversation starter."
     },
-     <!--
-    {
-      "id": "apple",
-      "name": "Apple",
-      "price": 10,
-      "image": "earrings/apple_earrings.webp",
-      "description": "Crisp, classic, and ready for any season."
-    },
-    {
-      "id": "banana",
-      "name": "Banana",
-      "price": 10,
-      "image": "earrings/banana_earrings.webp",
-      "description": "A cheerful little reminder not to take life too seriously."
-    },-->
     {
       "id": "raspberry",
       "name": "Raspberry",
@@ -145,14 +122,6 @@
       "image": "earrings/pineapple_earrings.webp",
       "description": "Bringing sunny vacation energy wherever you go."
     },
-     <!--
-    {
-      "id": "peach",
-      "name": "Peach",
-      "price": 10,
-      "image": "earrings/peach_earrings.webp",
-      "description": "Soft summer vibes in miniature form."
-    },-->
     {
       "id": "mandarin_orange",
       "name": "Mandarin Oranges",
@@ -180,15 +149,7 @@
       "price": 10,
       "image": "earrings/lemon_earrings.webp",
       "description": "Fresh, bright, and full of zest."
-    },
-     <!--
-    {
-      "id": "cherry",
-      "name": "Cherry",
-      "price": 10,
-      "image": "earrings/cherry_earrings.webp",
-      "description": "Retro diner charm in a tiny package."
-    }-->
+    }
   ]
 },
 
@@ -203,14 +164,6 @@
       "image": "earrings/baguette_earrings.webp",
       "description": "A little taste of bakery charm with a French twist."
     },
-     <!--
-    {
-      "id": "boule",
-      "name": "Boule",
-      "price": 10,
-      "image": "earrings/boule_earrings.webp",
-      "description": "A tiny artisan loaf for bread lovers everywhere."
-    },-->
       {
       "id": "checkered bread",
       "name": "Checkered Bread",
@@ -218,21 +171,6 @@
       "image": "earrings/checkered_bread_earrings.webp",
       "description": "A tiny artisan loaf for bread lovers everywhere."
     },
-     <!--
-    {
-      "id": "coney",
-      "name": "Coney",
-      "price": 10,
-      "image": "earrings/coney_earrings.webp",
-      "description": "A classic cookout favorite, now in miniature."
-    }.
-    {
-      "id": "fries",
-      "name": "Fries",
-      "price": 10,
-      "image": "earrings/fries_earrings.webp",
-      "description": "Golden, crispy, and always a good idea."
-    },-->
     {
       "id": "cheeseburger",
       "name": "Cheeseburger",
@@ -247,35 +185,6 @@
       "image": "earrings/pepperoni_pizza_dangle_earrings.webp",
       "description": "A favorite slice without the delivery wait."
     },
-     <!--
-    {
-      "id": "pretzel-salty",
-      "name": "Pretzel - Salty",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "A classic salty snack with plenty of personality."
-    },
-    {
-      "id": "pretzel-sweet",
-      "name": "Pretzel - Sweet",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "A sweet twist on a beloved snack."
-    },
-    {
-      "id": "buttered-popcorn",
-      "name": "Buttered Popcorn",
-      "price": 10,
-      "image": "earrings/buttered_popcorn.webp",
-      "description": "Movie night memories you can wear anywhere."
-    },
-    {
-      "id": "brie",
-      "name": "Brie",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "A tiny gourmet touch for cheese enthusiasts."
-    },-->
      {
       "id": "take-out-container",
       "name": "Take Out Container",
@@ -392,28 +301,6 @@
       "image": "earrings/chocolate_wafer_cookie_earrings.webp",
       "description": "A nostalgic cookie favorite with a chocolatey twist."
     },
-     <!--
-    {
-      "id": "chocolate-sandwich-cookies",
-      "name": "Chocolate Sandwich Cookies",
-      "price": 10,
-      "image": "earrings/chocolate_sandwich_earrings.webp",
-      "description": "A classic treat that brings back sweet memories."
-    },
-    {
-      "id": "cupcake",
-      "name": "Cupcake",
-      "price": 10,
-      "image": "earrings/cupcake_earrings.webp",
-      "description": "A tiny celebration you can wear every day."
-    },
-    {
-      "id": "thumbprint-cookies",
-      "name": "Thumbprint Cookies",
-      "price": 10,
-      "image": "earrings/thumbprint_cookie_earrings.webp",
-      "description": "A cozy homemade favorite inspired by cookie jars and kitchens."
-    },-->
      {
       "id": "dark-chocolate",
       "name": "Dark Chocolate",
@@ -434,58 +321,11 @@
   "category": "Fall Favorites",
   "slug": "fall-favorites",
   "products": [
-     <!--
-    {
-      "id": "sugar-skulls",
-      "name": "Sugar Skulls",
-      "price": 10,
-      "image": "earrings/sugar_skulls_earrings.webp",
-      "description": "Colorful little treats inspired by festive fall traditions."
-    },-->
-    {
-      "id": "pumpkin-regular",
-      "name": "Pumpkin",
-      "price": 10,
-      "image": "earrings/pumpkin_earrings_regular.webp",
-      "description": "A sparkling pumpkin perfect for cozy autumn days."
-    },
-     <!--
-    {
-      "id": "ghost-cookies",
-      "name": "Ghost Cookies",
-      "price": 10,
-      "image": "earrings/ghost_cookies_earrings.webp",
-      "description": "A sweet little spooky treat with plenty of charm."
-    },-->
     {
       "id": "candy-apple",
       "name": "Candy Apple",
       "price": 10,
       "image": "earrings/candy_apple_earrings.webp",
       "description": "A classic fall festival favorite in miniature form."
-    },
-     <!--
-    {
-      "id": "cleaver",
-      "name": "Cleaver",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "A spooky kitchen accessory for Halloween enthusiasts."
-    },
-    {
-      "id": "knife",
-      "name": "Knife",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "A playful Halloween kitchen detail with a little edge."
-    },
-     {
-      "id": "turkey",
-      "name": "Turkey",
-      "price": 10,
-      "image": "images/REPLACE_IMAGE_FILENAME.jpg",
-      "description": "A festive fall favorite ready for Thanksgiving gatherings."
-    }-->
-  ]
     }
-]
+  ]
