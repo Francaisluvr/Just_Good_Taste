@@ -59,6 +59,19 @@ body{
     background:var(--blueberry);
 }
 
+.jgt-site-header{
+  width: 100%;
+  overflow: hidden;
+  background: #d9eff2;
+}
+
+.jgt-header-image{
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
 .values{
     padding:60px 0;
 }
