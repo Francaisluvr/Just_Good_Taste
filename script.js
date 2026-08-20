@@ -57,7 +57,7 @@ async function loadProducts() {
 
         section.appendChild(grid);
 
-     catalog.appendChild(section);
+        catalog.appendChild(section);
 
     });
 }
@@ -65,4 +65,3 @@ async function loadProducts() {
 loadProducts().catch(error => {
     console.error('Error loading products:', error);
 });
-loadProducts();
