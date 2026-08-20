@@ -100,12 +100,6 @@ body{
     margin-bottom:40px;
 }
 
-.product-grid{
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
-    gap:30px;
-}
-
 .product-card img{
     width:100%;
     border-radius:16px;
