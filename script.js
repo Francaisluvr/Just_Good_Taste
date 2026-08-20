@@ -44,7 +44,7 @@ async function loadProducts() {
                     $${product.price}
                 </p>
 
-               <<a
+               <a
                 href="#bundles"
                 class="button">
                 Choose Bundle
@@ -57,9 +57,12 @@ async function loadProducts() {
 
         section.appendChild(grid);
 
-        catalog.appendChild(section);
+     catalog.appendChild(section);
 
     });
 }
 
+loadProducts().catch(error => {
+    console.error('Error loading products:', error);
+});
 loadProducts();
