@@ -216,7 +216,6 @@ footer{
     margin-bottom: 15px;
 }
 
-}
 .bundle-options {
     text-align:center;
     margin-bottom:60px;
@@ -243,3 +242,4 @@ footer{
     .product-grid {
         grid-template-columns: 1fr;
     }
+}
