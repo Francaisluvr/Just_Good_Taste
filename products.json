@@ -165,10 +165,10 @@
       "description": "A little taste of bakery charm with a French twist."
     },
       {
-      "id": "checkered bread",
-      "name": "Checkered Bread",
+      "id": "sourdough-bread",
+      "name": "Sourdough Bread",
       "price": 10,
-      "image": "earrings/checkered_bread_earrings.webp",
+      "image": "earrings/sourdough_bread_earrings.webp",
       "description": "A tiny artisan loaf for bread lovers everywhere."
     },
     {
@@ -209,7 +209,7 @@
       "id": "popsicles",
       "name": "Popsicles",
       "price": 10,
-      "image": "images/green_popsicle_earrings.webp",
+      "image": "earrings/green_popsicle_earrings.webp",
       "description": "A colorful frozen treat that brings instant summer memories."
     },
     {
@@ -329,3 +329,4 @@
       "description": "A classic fall festival favorite in miniature form."
     }
   ]
+]
