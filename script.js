@@ -5,6 +5,7 @@ async function loadProducts() {
     const catalog = document.getElementById('catalog');
 
     categories.forEach(category => {
+    console.log("Loading category:", category.category);
 
         // Create category section
         const section = document.createElement('section');
@@ -23,6 +24,7 @@ async function loadProducts() {
         grid.className = 'product-grid';
 
         category.products.forEach(product => {
+            console.log("Loading product:", product.id);
 
             const card = document.createElement('div');
             card.className = 'product-card';
