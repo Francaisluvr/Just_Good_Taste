@@ -1,5 +1,8 @@
 async function loadProducts() {
     const response = await fetch('products.json');
+    if (!response.ok) {
+        throw new Error(`products.json returned ${response.status}`);
+}
     const categories = await response.json();
 
     const catalog = document.getElementById('catalog');
