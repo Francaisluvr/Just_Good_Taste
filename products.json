@@ -1,5 +1,7 @@
+[
 {
   "category": "Rise & Shine Favorites",
+  "slug": "rise-and-shine-favorites",
   "products": [
     {
       "id": "toaster-pastry-banana-creme",
@@ -75,12 +77,14 @@
       "id": "toaster-pastry-raspberry",
       "name": "Toaster Pastries - Raspberry",
       "price": 10,
-      "image": "images/raspberry_toaster_pastries__earrings.webp",
+      "image": "images/raspberry_toaster_pastries_earrings.webp",
       "description": "A tiny tribute to classic breakfast treats."
     }
   ]
+},
 {
   "category": "Fresh Picked",
+  "slug": "fresh-picked",
   "products": [
     {
       "id": "grapes",
@@ -140,7 +144,7 @@
     },
     {
       "id": "mandarin-oranges",
-      "name": "Mandarin Oranges ",
+      "name": "Mandarin Oranges",
       "price": 10,
       "image": "images/mandarin_orange_earrings.webp",
       "description": "Bright, fresh, and delightfully unexpected."
@@ -174,7 +178,7 @@
       "description": "Retro diner charm in a tiny package."
     }
   ]
-}
+},
 {
   "category": "Snack Time Classics",
   "slug": "snack-time-classics",
@@ -236,7 +240,7 @@
       "description": "A fiesta favorite packed with personality."
     }
   ]
-}
+},
 {
   "category": "Summertime Sweets",
   "slug": "summertime-sweets",
@@ -277,7 +281,7 @@
       "description": "A refreshing favorite with a little extra chocolatey fun."
     }
   ]
-}
+},
 {
   "category": "In the Kitchen",
   "slug": "in-the-kitchen",
@@ -310,14 +314,14 @@
       "image": "images/pepper_mill_earrings.webp",
       "description": "A little pinch of personality for food lovers."
     },
- {
+    {
       "id": "chefs-hat",
-      "name": "Chef’s Hat",
+      "name": "Chefs Hat",
       "price": 10,
       "image": "images/chefs_hat_earrings.webp",
       "description": "For anyone who takes their snacks very seriously."
     },
- {
+    {
       "id": "mixing-bowl",
       "name": "Mixing Bowl",
       "price": 10,
@@ -325,7 +329,7 @@
       "description": "Inspired by cozy kitchens and favorite recipes."
     }
   ]
-}
+},
 {
   "category": "Sugar & Sprinkles",
   "slug": "sugar-and-sprinkles",
@@ -345,7 +349,7 @@
       "description": "A little swirl of sweetness and childhood nostalgia."
     }
   ]
-}
+},
 {
   "category": "Spooky Snacks & Sweets",
   "slug": "spooky-snacks-and-sweets",
@@ -371,14 +375,13 @@
       "image": "images/candy_apple_earrings.webp",
       "description": "A classic fall festival favorite in miniature form."
     },
-  {
+    {
       "id": "candy-corn",
       "name": "Candy Corn",
       "price": 10,
       "image": "images/candy_corn_earrings.webp",
       "description": "A tiny taste of spooky-season sweetness."
-    },
-  
+    }
   ]
 }
-
+]  
